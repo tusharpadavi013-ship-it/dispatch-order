@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Unit Dispatch & Order Tracker",
+  "description": "A professional data entry dashboard for tracking Order and Dispatch values across multiple units (SUR, KDC, CKU, EMB, LMN) with automated Google Sheets integration and Gemini-powered data auditing.",
+  "requestFramePermissions": []
+}
